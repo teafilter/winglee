@@ -1287,3 +1287,4 @@ _shutDownStack=   at System.Environment.GetStackTrace(Exception e, Boolean needF
  2017-10-19 17:44:28,016 [P11284/D11/T44] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
  2017-10-19 17:44:28,016 [P11284/D11/T44] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Core.PropertyEditors.IParameterEditor
  2017-10-19 17:44:28,017 [P11284/D11/T44] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Core.PropertyEditors.IParameterEditor (took 0ms)
+ 2017-10-19 17:47:59,109 [P11284/D11/T49] WARN  Umbraco.Web.UmbracoModule - Umbraco has no content
